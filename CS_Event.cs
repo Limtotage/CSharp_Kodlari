@@ -1,6 +1,6 @@
 using System;
 public delegate void BilgiVerici(string bilgi);
-public class Islem
+public class CS_Event
 {
     // Event tanımlama
     public event BilgiVerici IslemTamamlandi;
