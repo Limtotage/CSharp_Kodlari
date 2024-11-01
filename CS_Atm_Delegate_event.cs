@@ -50,7 +50,7 @@ public class ATM
 }
 
 // Program sınıfı
-class Program
+class CS_Atm_Delegate_event
 {
     public static void IslemMesaji(string mesaj)
     {
