@@ -10,7 +10,7 @@ public class Ogrenci
     public double Ortalama { get; set; }
 }
 
-public class Program
+public class CS_Linq
 {
     public static void Main()
     {
