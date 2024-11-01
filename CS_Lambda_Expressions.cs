@@ -7,7 +7,7 @@ public class Ogrenci
     public double Ortalama { get; set; }
 }
 
-public class Lambda_Expressions
+public class CS_Lambda_Expressions
 {
     public static void Main()
     {
