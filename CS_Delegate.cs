@@ -1,6 +1,6 @@
 using System;
 
-public class Delegate_Orn
+public class CS_Delegate
 {
     public delegate void MesajGoster(string mesaj);
     //Yukarıdaki MesajGoster delegate türü, void döndüren ve string parametre alan tüm metodları temsil eder.
