@@ -1,4 +1,4 @@
-public class Solution_22 {
+public class Solution_22 {// backtrackingten sonrası yazılmamış
     public long hurry_EatThemAll(int[] piles,int k){
         long banana=0;
         foreach(int x in piles){
